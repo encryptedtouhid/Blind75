@@ -1,4 +1,4 @@
-# Blind 75 Must Do - Leetcode
+# Blind 75 Must Do - Leetcode https://leetcode.com/list/xi4ci4ig/
 
 1. Two Sum
 2. Longest Substring Without Repeating Characters
