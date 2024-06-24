@@ -1,4 +1,5 @@
-## Blind 75 Must Do - Leetcode: https://leetcode.com/list/xi4ci4ig/
+## Blind 75 Must Do - [Leetcode](https://leetcode.com/list/xi4ci4ig/)  With Python ([Download Pyhton Cheat Sheet](mementopython3-english.pdf))
+
 
 1. Two Sum
 2. Longest Substring Without Repeating Characters
@@ -76,3 +77,5 @@
 74. Subtree of Another Tree
 75. Palindromic Substrings
 76. Longest Common Subsequence
+
+
