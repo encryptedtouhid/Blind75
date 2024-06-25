@@ -1,4 +1,4 @@
-## Blind 75 Must Do - [Leetcode](https://leetcode.com/list/xi4ci4ig/)  With Python ([Download Pyhton Cheat Sheet](mementopython3-english.pdf))
+## Blind 75 Must Do - [Leetcode](https://leetcode.com/list/xi4ci4ig/)  With Python ([Download Pyhton Cheat Sheet](Python3_Reference_Cheat_Sheet.pdf))
 
 
 1. Two Sum [(Issue)](https://github.com/encryptedtouhid/Blind75/issues/1)
