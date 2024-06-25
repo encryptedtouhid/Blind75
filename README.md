@@ -2,7 +2,7 @@
 
 
 1. Two Sum [(Issue)](https://github.com/encryptedtouhid/Blind75/issues/1)
-2. Longest Substring Without Repeating Characters
+2. Longest Substring Without Repeating Characters [(issue)](https://github.com/encryptedtouhid/Blind75/issues/2)
 3. Longest Palindromic Substring
 4. Container With Most Water
 5. 3Sum
