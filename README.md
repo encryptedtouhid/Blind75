@@ -1,7 +1,7 @@
 ## Blind 75 Must Do - [Leetcode](https://leetcode.com/list/xi4ci4ig/)  With Python ([Download Pyhton Cheat Sheet](Python3_Reference_Cheat_Sheet.pdf))
 
 
-1. Two Sum [(Issue)](https://github.com/encryptedtouhid/Blind75/issues/1)  || [Solution with py3](twosum.py)
+1.   [Two Sum](https://github.com/encryptedtouhid/Blind75/issues/1)  : [Py](twosum.py)  , [C++]() , [C#]()
 2. Longest Substring Without Repeating Characters [(issue)](https://github.com/encryptedtouhid/Blind75/issues/2)  
 3. Longest Palindromic Substring
 4. Container With Most Water
