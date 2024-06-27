@@ -3,7 +3,7 @@
 
 1. [Two Sum](https://github.com/encryptedtouhid/Blind75/issues/1)  : [Py](twosum.py)  , [C++]() , [C#]()
 2. [Longest Substring Without Repeating Characters](https://github.com/encryptedtouhid/Blind75/issues/2)   : [Py](longestSubString.py)
-3. Longest Palindromic Substring
+3. [Longest Palindromic Substring](https://github.com/encryptedtouhid/Blind75/issues/3)
 4. Container With Most Water
 5. 3Sum
 6. Remove Nth Node From End of List
